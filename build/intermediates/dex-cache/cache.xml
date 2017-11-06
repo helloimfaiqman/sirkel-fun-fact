@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_1e55431a6aec09ea9231570cbc71d3ca88bbe03e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\3c1ed0c790a15f7a34cddc4f3aba92f12e44514d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de2979e19e63fb599b0cfb52642c156609ecc792\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\e996e88ddbfcfd21965a526845b1f717a791d28e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_282a91bdc441e4caaab7f6ea8abae1fda4440eeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\44c78200b94f58aa08e5971bc67a1d0792b8775b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_036711ac4938fb1a43067a8ca18a5bc7ac2bbec7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\35a2fc48cbc2b6f773dc2dba48f46844aa1613cd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3289b492dc8ae649cad73ce1ab608ceefa82dc1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12291322d64290b9e29d9fb611c4320909e4e0d1">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_657edd1ef33a95fe3a446865d822412b2ff8dba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7049978e7cc2301979c7a06dac59b8be8e7b7a2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\6dcf133ecfb0c48b19939e35d03bfd49ad629aa5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9b245c1b77a00cb6d912c554362ce38db7c617d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\b148ddd536c82087161c86a6872f4bc411bf1e43\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_920693b00c44aa8ff1b0f4f79ae125a819883e02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_283b98a2f80d9b1e1b6a84a5c5721ac5c08af401\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\ba9fd80506a85e8634cceaee19f44891469f0bbd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6a4cdcddc96586d4fd4100e81def7e84753ef98\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\cb48d5462ec8e876bb1f00de30f6369c4a0ff1fb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_77d1e96805650823f9854836a764f0950fdf70f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\7319868b20da5791922d1551571d242c630539da\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ddabfbfc067d7779e41d5fa122e102f1ceecd96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\lenovo\.android\build-cache\5a43987ed754d1a0f3da85f95489966492f82be9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\lenovo\AndroidStudioProjects\Hello\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e0d90ebbc7d9ace0d14145d762932701cd0ad631\classes.dex" />
+    </item>
+
+</items>
